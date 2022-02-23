@@ -1,0 +1,8 @@
+[02-Feb-2021 14:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/summentor/womenwholead/mail/mail_handler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/summentor/womenwholead/mail/mail_handler.php on line 24
+[02-Feb-2021 14:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/summentor/womenwholead/mail/mail_handler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/summentor/womenwholead/mail/mail_handler.php on line 24

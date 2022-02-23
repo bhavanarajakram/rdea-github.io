@@ -1,0 +1,45 @@
+<style type="text/css">
+
+    body{
+        overflow: hidden;
+    }
+
+    @media only screen and (max-width: 768px) {
+
+    /*.f1{
+
+        width: 33.33% !important;
+
+    }*/
+
+    #t1{
+
+        /*display: block !important;*/
+
+         margin-left: auto;margin-right: auto; display: flex !important;justify-content: center;align-items: center;
+
+         padding-top: 3%;
+
+         color: #585858;
+
+    }
+
+    a.g-color--white-opacity{
+
+        font-size: 14px !important;
+
+    }
+
+    #fa{
+
+        font-size: 8px !important;
+
+    }
+
+    #fl{
+
+   /*     line-height: 2rem !important;*/
+
+    }
+    }
+</style>

@@ -1,0 +1,75 @@
+
+input[placeholder], [placeholder], *[placeholder]{
+  color: white !important;
+}
+.form-group{
+  margin-bottom: 2rem;
+}
+input[type="text"]::-webkit-input-placeholder {
+  color: white !important;
+}
+input[type="email"]::-webkit-input-placeholder {
+  color: white !important;
+}
+.navbar{
+  position: fixed;
+}
+.navbar-dark .navbar-nav .nav-link{color: white !important;}
+.imgband{display:block;margin:0px auto;width:100px;text-align:center;}
+option{
+    background-color: #E94B5D;
+    color: white;
+}
+
+select{
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid white;
+  padding: 2%;
+}
+ input[type="text"],input[type="email"],select
+    {
+        border: 0;
+        border-bottom: 1px solid white;
+        width: 100%;
+        outline: 0;
+        background: transparent;
+        font-weight: bold;
+        color: white;
+        font-size: 22px;
+    }
+    input[type="submit"]{
+      border-radius: 5px;
+      font-size: 22px;
+    }
+input[placeholder], [placeholder], *[placeholder]{
+  color: white !important;
+}
+.secpc{
+
+background-image: url('img/nominate/nominate_pc.png'); background-size: cover !important; width: 100%; max-width: 100%;background-repeat: no-repeat;background-attachment: fixed !important; padding-top: 5%; padding-bottom: 5%;
+
+}
+#secpc1{
+
+-webkit-box-shadow: 0px 0px 10px 0px rgba(207,205,207,1) !important;-moz-box-shadow: 0px 0px 10px 0px rgba(207,205,207,1) !important;box-shadow: 0px 0px 10px 0px rgba(207,205,207,1) !important;
+
+}
+@media only screen and (max-width: 768px) {
+    .navbar{background: transparent;}
+    .navbar-dark .navbar-nav .nav-link{color: white !important;}
+    .secpc{
+        background-image: url('img/nominate/nominate_mb.png') !important;  background-size: cover !important; width: 100%; max-width: 100%;background-repeat: no-repeat;background-attachment: fixed !important; padding-top: 10%; padding-bottom: 5%;
+            }
+    #secpc1{
+        -webkit-box-shadow: none !important;-moz-box-shadow: none !important;box-shadow: none !important;
+    }
+}
+    .navbar-dark .navbar-toggler {
+      color: black !important;
+      border-color: transparent !important;
+  }
+  .navbar-toggler {
+      background-color: transparent !important;   
+  }
+

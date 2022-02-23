@@ -1,0 +1,35 @@
+    #awardform{background:#f9f8f8;min-height:auto !important;padding:100px 0px 100px !important;}
+    .msmeaward .form-control{display:block;width:100%;height:42px;padding:6px 12px;font-size:14px;line-height:1.5;color:#252527 !important;background-color:transparent;background-image:none;border:1px solid #cbc9d0;border-radius:4px;box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075);transition:border-color ease-in-out .15s, box-shadow ease-in-out .15s;}
+    .msmeaward .form-control:focus{border:1px solid #80008073;background:#fffdfddd;}
+    .msmeaward{background:#fff !important;border:1px solid #ddd;padding:10px 0px 60px;background:#ffffff;margin:85px 0px;border-radius:10px;box-shadow:2px 1px 2px #d4d4d4dd;}
+    .ribbon5{background:#f1f0f0;font-size:30px;display:block;width:calc(100% + 20px);height:85px;line-height:90px;text-align:center;margin-left:-10px;margin-right:-10px;position:relative;top:20px;color:#ae2d9e;margin-bottom:90px;box-shadow:1px 3px 3px #312c2f4f;}
+    .ribbon5:before, .ribbon5:after{content:"";position:absolute;}
+    .ribbon5:before{height:0;width:0;bottom:-10px;left:0;border-top:10px solid #a72f9a;border-left:10px solid transparent;}
+    .ribbon5:after{height:0;width:0;right:0;bottom:-10px;border-top:10px solid #a72f9a;border-right:10px solid transparent;}
+    .formpadding{margin:0px 45px!important;}
+    .form-group small{color:#252535;font-size:15px;text-shadow:none;padding-bottom:10px !important;}
+    .ribbon3{width:150px;height:50px;line-height:50px;padding-left:15px;position:absolute;left:-8px;top:20px;background:#59324C;}
+    .ribbon3:before, .ribbon3:after{content:"";position:absolute;}
+    .ribbon3:before{height:0;width:0;top:-8.5px;left:0.1px;border-bottom:9px solid black;border-left:9px solid transparent;}
+    .ribbon3:after{height:0;width:0;right:-14.5px;border-top:25px solid transparent;border-bottom:25px solid transparent;border-left:15px solid #59324C;}
+    .awardh2{font-size:24px !important;color:#ffffff !important;background:#EA4B5E;padding:15px;display:inline-block;box-shadow:5px 6px 2px #22222259;border-radius:3px;}
+    .myspan3{font-size:18px;color:white;display:block;margin:10px 0px;}
+    .h3inner{margin-bottom:25px;font-size:18px;color:#EA4B5E;border-top:4px double #e6e6e5;border-bottom:4px double #e6e6e5;padding:12px 12px 10px;display:inline-block;/*box-shadow:2px 0px 3px #f9f8f8;*/}
+    .awardul{list-style-type:none;padding-left:0px;}
+    .awardul li{line-height:26px;color: white !important;font-size:15px;}
+    .pleft{padding-left:50px !important;}
+    .msmeaward .form-control::-webkit-input-placeholder{color:#252527 !important;}
+    @media only screen and (max-width:767px){#awardform{background:#f9f8f8;min-height:auto !important;padding:30px 0px 30px !important;}
+    .msmeaward{background:#fff !important;border:1px solid #ddd;padding:30px 0px 30px;background:#ffffff;margin:85px 0px;border-radius:10px;box-shadow:2px 1px 2px #d4d4d4dd;}
+    .ribbon5{font-size:20px;display:block;width:calc(100% + 20px);height:66px;line-height:67px;text-align:center;margin-left:-10px;margin-right:-10px;background:linear-gradient(45deg, #dd16b5, #983794);position:relative;top:20px;color:#fff;margin-bottom:50px;}
+    .formpadding{margin:0px 15px!important;}
+    .form-group small{color:#343438;font-size:15px;}
+    .awardh2{font-size:20px !important;color:#ffffff;background:linear-gradient(45deg, #da17b3, #9f3497);padding:12px;display:inline-block;box-shadow:5px 6px 2px #22222259;border-radius:3px;}
+    .myspan3{font-size:15px;color:white;display:block;margin:6px 0px;}
+    .awardul li{line-height:26px;color: white !important;font-size:13px;}
+    .h3inner{line-height:22px;margin-bottom:20px;font-size:15px;color: #EA4B5E;border-top:4px double #e6e6e5;border-bottom:4px double #e6e6e5;padding:12px 12px 10px;display:inline-block;/*box-shadow:2px 0px 3px #f9f8f8;*/}
+    }
+    .btn-hover{width:200px;font-size:16px;font-weight:600;color:#fff;cursor:pointer;margin:20px;height:55px;text-align:center;border:none;background-size:300% 100%;border-radius:50px;moz-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;-webkit-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
+    .btn-hover:hover{background-position:100% 0;moz-transition:all .4s ease-in-out;-o-transition:all .4s ease-in-out;-webkit-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
+    .btn-hover:focus{outline:none;text-decoration:none;}
+    .btn-hover.color-7{/*box-shadow:0 4px 15px 0 rgba(126, 52, 161, 0.75);*/background:#EA4B5E;}
